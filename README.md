@@ -1,4 +1,4 @@
-# QServe - Quick Serve
+# QServ - Quick Serve
 
 A lightweight, fast, and feature-rich static file server written in Go. Perfect for development, testing, and production.
 
